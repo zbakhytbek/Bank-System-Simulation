@@ -89,9 +89,3 @@ Bank ID,Name,Card Number,PIN,Balance,Last Transaction
 - Add biometric authentication for enhanced security.
 - Improve database security by encrypting sensitive data.
 
-## License
-This project is released under the [MIT License](LICENSE).
-
----
-
-For questions or contributions, feel free to reach out!
